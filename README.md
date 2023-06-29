@@ -1,1 +1,1 @@
-# Earth-2.O
+# earth-2.o
